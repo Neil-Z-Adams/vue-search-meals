@@ -1,7 +1,16 @@
-# Vue 3 + Vite
+# Receipt Search app built with Vue.js
+This repository is created alongside the following [YouTube Tutorial](https://youtu.be/cfiN8lCA3RM)
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Demo
+[https://tc-search-meals.netlify.app](https://tc-search-meals.netlify.app/)
+
+## Installation
+1. Clone the repository
+1. Run `npm install`
+1. Copy `.env.example` into `.env`
+1. Run `npm run dev` to start the application at http://localhost:3000
+
 
 ## Recommended IDE Setup
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
